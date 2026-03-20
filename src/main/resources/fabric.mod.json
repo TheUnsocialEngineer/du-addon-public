@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "dupersunited-public-addon",
+  "version": "${version}",
+  "name": "DupersUnited Public Addon",
+  "description": "An addon to dupe with",
+  "authors": [
+    "DupersUnited"
+  ],
+  "icon": "assets/dupersunited-public-addon/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "io.jackywacky.addon.DupersUnitedPublicAddon"
+    ]
+  },
+  "mixins": [
+    "dupersunited-public-addon.mixins.json"
+  ],
+  "custom": {
+    "meteor-client:color": "0,138,207"
+  },
+  "depends": {
+    "java": ">=21",
+    "minecraft": ["${mc_version}"],
+    "meteor-client": "*"
+  }
+}
