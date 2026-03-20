@@ -107,7 +107,6 @@ utility modules for Minecraft.
 - **Killet, Laztec & Ionar** - Trident dupe inspiration
 - **KhaoDoesDev** - EnumArgumentType
 - **jackywacky** - Namespace refactor (`io.jackywacky`), DU category split + icons, New Features + DupeDB integration
-- **AntiGravity (Google)** – Cute Catgirl AI that generated this README.md
 
 ---
 
