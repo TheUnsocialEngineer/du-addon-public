@@ -61,7 +61,7 @@ public class DupersUnitedPublicAddon extends MeteorAddon {
 
     @Override
     public GithubRepo getRepo() {
-        return new GithubRepo("YAYLOLDEV", "du-addon-public");
+        return new GithubRepo("TheUnsocialEngineer", "du-addon-public");
     }
 
 
