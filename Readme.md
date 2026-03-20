@@ -75,6 +75,8 @@ utility modules for Minecraft.
 .wait 5000 /home
 .foreachplayer /msg %PLAYER% Hello!
 .repeat-delay 1000 5 /tpa %PLAYER%
+.Dupedb Search
+.DupeDB Plugins
 ```
 
 ---
