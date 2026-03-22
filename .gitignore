@@ -1,3 +1,6 @@
+# Optional bundled mods (see libs/README.md)
+libs/*.jar
+
 # Gradle
 .gradle/
 build/

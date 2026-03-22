@@ -17,6 +17,7 @@
   "mixins": [
     "dupersunited-public-addon.mixins.json"
   ],
+  "jars": [],
   "custom": {
     "meteor-client:color": "0,138,207"
   },

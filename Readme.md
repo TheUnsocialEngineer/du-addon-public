@@ -17,6 +17,10 @@ utility modules for Minecraft.
 3. Place the `.jar` file in your `mods` folder
 4. Launch Minecraft with Meteor Client
 
+### Optional: one JAR with UI-Utils Advanced
+
+If you **build from source**, you can embed [UI-Utils Advanced](https://github.com/FrannnnDev/ui-utils-advanced) inside the addon JAR (Fabric **jar-in-jar**). Users then drop **one** file in `mods/` instead of two. See [`libs/README.md`](libs/README.md) for the exact filename, download link, and **license / attribution** requirements ([THIRD_PARTY.md](THIRD_PARTY.md)). The UI-Utils mod still runs as its own mod ID — this only packages it for convenience.
+
 ---
 
 ## ✨ Features
